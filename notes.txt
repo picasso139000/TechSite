@@ -1,0 +1,8 @@
+Navbar ( done )
+Hero ( done )
+About ( Done )
+Services (Done)
+Projects
+Feeds
+Contact Us 
+Footer
